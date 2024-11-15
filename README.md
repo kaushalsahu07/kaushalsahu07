@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Web Dev
 
-- 🌱 I’m currently learning Javasript
+- 🌱 I’m currently learning React
 - 📫 How to reach me kaushal.r.sahu@gmail.com
 
 # Social Media
