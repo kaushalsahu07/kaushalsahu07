@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web Dev
 
 - 🌱 I’m currently learning React
-- 📫 How to reach me kaushal.r.sahu@gmail.com
+- 📫 How to reach me kaushal.r.sahu@outlook.com
 
 # Social Media
 - <img src="https://github.com/kaushalsahu07/kaushalsahu07/assets/131914333/f1033faf-0383-4cd7-ad50-d2830df8cfd6" width="20" height="15"/>  My Instagram :- [Instagram Profile](https://www.instagram.com/cd.kaushal)
