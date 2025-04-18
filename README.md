@@ -1,12 +1,25 @@
-# 🌟 About Me 
-- 👋 Hi, I’m Kaushal Sahu
+# Hi there, I'm Kaushal Sahu 👋
 
-- 👀 I’m interested in Web Dev
+Aspiring Web Developer | Learning React | Passionate about building intuitive digital experiences
 
-- 🌱 I’m currently learning React
-- 📫 How to reach me kaushal.r.sahu@outlook.com
+<br>
 
-# Social Media
-- <img src="https://github.com/kaushalsahu07/kaushalsahu07/assets/131914333/f1033faf-0383-4cd7-ad50-d2830df8cfd6" width="20" height="15"/>  My Instagram :- [Instagram Profile](https://www.instagram.com/cd.kaushal)
-- 🎨 My Dribbble :- [Dribbble Profile](https://dribbble.com/cdkaushal)
-- <img src="https://github.com/kaushalsahu07/kaushalsahu07/assets/131914333/6ed59b0f-5fea-40d7-8a0d-cef7cd379b5b" width="20" height="14"/>  My Twitter :- [Twitter Profile](https://twitter.com/kaushalsahu_07)
+## 🚀 About Me
+
+- 💻 I’m passionate about **Web Development**
+- 🌱 Currently learning **React.js**
+- 📫 Reach me at: [kaushal.r.sahu@outlook.com](mailto:kaushal.r.sahu@outlook.com)
+
+<br>
+
+
+## 🤝 Let's Connect!
+
+<a href="https://twitter.com/kaushalsahu_07" target="_blank" title="Twitter">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://linkedin.com/in/kaushalsahu07" target="_blank" title="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/cd.kaushal" target="_blank" title="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://dribbble.com/cdkaushal" target="_blank" title="Dribbble">
+  <img src="https://img.shields.io/badge/Dribbble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white"/></a>
