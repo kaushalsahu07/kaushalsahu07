@@ -12,7 +12,7 @@ Aspiring Web Developer | Learning React | Passionate about building intuitive di
 
 ## 🤝 Let's Connect!
 
-  <a href="www.linkedin.com/in/kaushalsahu07" target="_blank" title="LinkedIn">
+  <a href="https://linkedin.com/in/kaushalsahu07" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="https://x.com/kaushalsahu_07" target="_blank" title="X Twitter">
