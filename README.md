@@ -2,15 +2,12 @@
 
 Aspiring Web Developer | Learning React | Passionate about building intuitive digital experiences
 
-<br>
 
 ## 🚀 About Me
 
 - 💻 I’m passionate about **Web Development**
 - 🌱 Currently learning **React.js**
 - 📫 Reach me at: [kaushal.r.sahu@outlook.com](mailto:kaushal.r.sahu@outlook.com)
-
-<br>
 
 
 ## 🤝 Let's Connect!
