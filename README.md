@@ -12,11 +12,19 @@ Aspiring Web Developer | Learning React | Passionate about building intuitive di
 
 ## 🤝 Let's Connect!
 
-<a href="https://twitter.com/kaushalsahu_07" target="_blank" title="Twitter">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/kaushalsahu07" target="_blank" title="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/cd.kaushal" target="_blank" title="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://dribbble.com/cdkaushal" target="_blank" title="Dribbble">
-  <img src="https://img.shields.io/badge/Dribbble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/kaushalsahu07" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://x.com/kaushalsahu_07" target="_blank" title="X Twitter">
+    <img src="https://img.shields.io/badge/X Twitter-000000.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+     &nbsp;
+  <a href="https://kaushalsahu07.github.io/portfolio/" target="_blank" title="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-12100E.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.instagram.com/cd.kaushal/" target="_blank" title="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://dribbble.com/cdkaushal" target="_blank" title="Dribbble">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+  &nbsp;
+
