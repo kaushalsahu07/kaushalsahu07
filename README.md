@@ -1,6 +1,6 @@
 # Hi there, I'm Kaushal Sahu 👋
 
-Aspiring Web Developer | Learning React | Passionate about building intuitive digital experiences
+Web Developer | Learning React | Passionate about building intuitive digital experiences
 
 
 ## 🚀 About Me
