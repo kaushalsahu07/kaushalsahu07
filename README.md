@@ -7,7 +7,7 @@ Web Developer | Learning React | Passionate about building intuitive digital exp
 
 - 💻 I’m passionate about **Web Development**
 - 🌱 Currently learning **React.js**
-- 📫 Reach me at: [kaushal.r.sahu@outlook.com](mailto:kaushal.r.sahu@outlook.com)
+- 📫 Reach me at: [kaushalsahu.me@gmailcom](mailto:kaushalsahu.me@gmailcom)
 
 
 ## 🤝 Let's Connect!
