@@ -6,7 +6,7 @@ Web Developer | Learning React | Passionate about building intuitive digital exp
 ## 🚀 About Me
 
 - 💻 I’m passionate about **Web Development**
-- 🌱 Currently learning **React.js**
+- 🌱 Currently learning **Typescript**
 - 🎓 Pursuing **BCA (Bachelor of Computer Applications)**
 - 📫 Reach me at: [kaushalsahu.me@gmail.com](mailto:kaushalsahu.me@gmail.com)
 
