@@ -1,6 +1,6 @@
 # Hi there, I'm Kaushal Sahu 👋
 
-Web Developer | Learning React | Passionate about building intuitive digital experiences
+Frontend Developer | Aspiring Full-Stack | React · TypeScript
 
 
 ## 🚀 About Me
