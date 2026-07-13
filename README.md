@@ -1,7 +1,6 @@
 # Hi there, I'm Kaushal Sahu 👋
 
-Frontend Developer | Aspiring Full-Stack | React · TypeScript
-
+<img width="1200" height="300" alt="GitHub Banner - Kaushal" src="https://github.com/user-attachments/assets/e4aa63ef-92ee-4589-847c-85db185bdcc2" />
 
 ## 🚀 About Me
 
